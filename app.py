@@ -35,4 +35,4 @@ print(df)
 df.to_csv("pessoas_fake.csv", index=False, encoding="utf-8-sig")
 
 print("\nArquivo 'pessoas_fake.csv' criado com sucesso!")
-print("novooo")
+print("testando conflitos")
